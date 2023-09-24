@@ -12,10 +12,8 @@ type NukeParameters struct {
 	Excludes     []string
 	CloudControl []string
 
-	NoDryRun   bool
-	Force      bool
-	ForceSleep int
-	Quiet      bool
+	NoDryRun bool
+	Quiet    bool
 
 	MaxWaitRetries int
 }
