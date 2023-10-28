@@ -1,6 +1,6 @@
 # aws-auto-nuke
 
-![Build Status](https://github.com/ppmathis/aws-auto-nuke/workflows/CI/badge.svg?branch=main)
+[![CI](https://github.com/ppmathis/aws-auto-nuke/actions/workflows/ci.yaml/badge.svg)](https://github.com/ppmathis/aws-auto-nuke/actions/workflows/ci.yaml)
 
 This is a maintained fork of [aws-nuke](https://github.com/rebuy-de/aws-nuke)
 from [rebuy recommerce GmbH](https://github.com/rebuy-de/aws-nuke). While the
